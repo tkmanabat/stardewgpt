@@ -1,0 +1,24 @@
+{
+    "api": "https://stardewvalleywiki.com/mediawiki/api.php",
+    "api_chunksize": 50,
+    "curonly": true,
+    "date": "20240505",
+    "delay": 1.5,
+    "exnamespaces": [],
+    "export": "",
+    "failfast": false,
+    "http_method": "POST",
+    "images": false,
+    "index": "https://stardewvalleywiki.com/mediawiki/index.php",
+    "logs": false,
+    "namespaces": [
+        0
+    ],
+    "path": "./stardewvalleywiki.com_mediawiki-20240505-wikidump",
+    "retries": 5,
+    "templates": false,
+    "xml": true,
+    "xmlapiexport": false,
+    "xmlrevisions": false,
+    "xmlrevisions_page": false
+}
