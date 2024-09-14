@@ -1,5 +1,7 @@
 # StardewGPT 🐔
 
+![](public/demo.gif)
+
 A Retrieval-Augmented Generation (RAG) pipeline using Llama 3.1 8B to answer questions any regarding the game Stardew Valley. The dataset used for this pipeline came from the [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki) itself.
 
 ## Web App
